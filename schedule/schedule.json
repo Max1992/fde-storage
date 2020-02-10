@@ -1,13 +1,28 @@
 {
 	"schedule": [{
 			"id": "1DC4A3B2-9221-42CE-A2D7-28DE4A456070",
-			"timestamp": "2020-02-10",
-			"status": "",
+			"timestamp": "2020-03-10",
+			"status": "new",
 			"title": "some title"
 		}, {
 			"id": "1DC4A3B2-9221-42CE-A2D7-28DE4A456071",
 			"timestamp": "2020-02-11",
-			"status": "",
+			"status": "active",
+			"title": "some title"
+		}, {
+			"id": "1DC4A3B2-9221-42CE-A2D7-28DE4A456072",
+			"timestamp": "2020-02-11",
+			"status": "passed",
+			"title": "some title"
+		}, {
+			"id": "1DC4A3B2-9221-42CE-A2D7-28DE4A456073",
+			"timestamp": "2020-02-12",
+			"status": "passed",
+			"title": "some title"
+		}, {
+			"id": "1DC4A3B2-9221-42CE-A2D7-28DE4A456074",
+			"timestamp": "2020-02-13",
+			"status": "passed",
 			"title": "some title"
 		}
 	]
