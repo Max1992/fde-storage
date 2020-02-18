@@ -1,8 +1,12 @@
-body {
+body-custom {
   background-color: lightblue;
 }
 
-h1 {
-  color: navy;
-  margin-left: 20px;
+event-table {
+	width: 100%;		
+}
+
+event-img {
+	height: 160px;
+	width: 160px;
 }
