@@ -1,23 +1,23 @@
 @font-face {
     font-family: 'Kelson Sans RU';
-    src: url('fonts/KelsonSans-RegularRU.woff2') format('woff2'),
-        url('fonts/KelsonSans-RegularRU.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/Max1992/fde-storage/master/fonts/KelsonSans-RegularRU.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/Max1992/fde-storage/master/fonts/KelsonSans-RegularRU.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Kelson Sans RU';
-    src: url('fonts/KelsonSans-LightRU.woff2') format('woff2'),
-        url('fonts/KelsonSans-LightRU.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/Max1992/fde-storage/master/fonts/KelsonSans-LightRU.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/Max1992/fde-storage/master/fonts/KelsonSans-LightRU.woff') format('woff');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Kelson Sans RU';
-    src: url('fonts/KelsonSans-BoldRU.woff2') format('woff2'),
-        url('fonts/KelsonSans-BoldRU.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/Max1992/fde-storage/master/fonts/KelsonSans-BoldRU.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/Max1992/fde-storage/master/fonts/KelsonSans-BoldRU.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
